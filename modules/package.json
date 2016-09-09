@@ -1,0 +1,15 @@
+{
+  "name": "warcraft",
+  "version": "1.0.0",
+  "description": "- we need modules because we need to break up a program into several files - explain that you can export any data type: integer, array, object, function, etc. Most commonly: objects. - warcraft example: index.js peasant.js, building.js, resources.js \t- building can train a peasant \t- when a peasant is trained, we use up 20 gold and 4 food. \t- resources start out at 100 gold, 20 food.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
